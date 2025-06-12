@@ -12,11 +12,7 @@
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Insights and Recommendations](#insights-and-recommendations)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Introduction
 
