@@ -24,7 +24,7 @@ This project explores the development of a question-answering (QA) system using 
 
 ## Dataset
 
-The Quora Question Answer dataset consists of over 56,000 question-answer pairs. After filtering out extremely long or noisy entries, approximately 43,000 examples were retained for model training and evaluation.
+The dataset used for this project is the [Quora Question Answer Dataset](https://huggingface.co/datasets/toughdata/quora-question-answer-dataset), available on Hugging Face Datasets. It contains over 56,000 question-answer pairs sourced from Quora discussions. After cleaning, around 43,000 entries were used for training and evaluation.
 
 ## Tools and Frameworks
 
